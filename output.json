@@ -1,0 +1,986 @@
+[
+    {
+        "link": "https://www.dc.com/characters/alan-scott",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlanScott_5fb82459209669.21120396.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/alfred-pennyworth",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlfredPennyworth_5c40ddc7b0e397.70092314.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/amanda-waller",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_AmandaWaller_5c40df31e06e32.83836467.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/amethyst",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Amethyst_5c40e299329fa8.64612837.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/anarky",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Anarky_56a828beda2873.94689757.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/anti-monitor",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_AntiMonitor_5df04dc35f66b3.45008668.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/antiope",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Antiope_5efcf761a6d6c1.75705997.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/aquaman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Aquaman_5c411a95e70ff5.50429372.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/ares",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Ares_5c40e61e645bd7.00544343.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/arsenal",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Arsenal_5c4112b0d08271.33719915.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/atlanna",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atlanna_5c411b2c679cb0.01941866.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/atom",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atom_5d7845c24cf931.57331689.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/atom-smasher",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_AtomSmasher_63473c541d1d84.00880415.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/atrocitus",
+        "img": "https://static.dc.com/dc/files/default_images/atrocitus_192x291_53c586992f0725.03097814.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/bane",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Bane_5c410f07428e44.78856363.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/batgirl",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batgirl_5c410fd9aa14d0.53215721.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/batman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/batwoman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batwoman_5c4111746bf769.13954525.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/beast-boy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BeastBoy_5c411282c5c040.32747717.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/big-barda",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_BirBarda_574495f48e4075.27470755.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/birds-of-prey",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BirdsOfPrey_5c41140e8617b9.11656357.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/bizarro",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Bizarro_5c4114e7bebbf3.79574128.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/black-adam",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlackAdam_5c4116746eea88.12548444.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/black-canary",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlackCanary_5c41184e20ee69.98463239.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/black-lightning",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlackLightning_5c5b2efb1ae191.72597470.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/black-manta",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlackManta_5c1023f0360dc3.11295654.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/black-mask",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlackMask__5e5ddc51d6d655.05136324.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/blackguard",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Blackguard_610b65210401e7.22154223.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/bloodsport",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Bloodsport_61085b0f4f5dc0.55770461.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/blue-beetle",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BlueBeetle_5c4118a71474e2.43949452.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/booster-gold",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BoosterGold_5c411938e61ab5.56452822.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/brainiac",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Brainiac_5d7844ba704f97.83305344.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/bumblebee",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_BumbleBee_5f470b68d7cc92.33815110.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/calendar-man",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CalendarMan_60d39942591b97.30732712.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/captain-boomerang",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CaptainBoomerang_5c47c75f492368.02277336.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/captain-cold",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CaptainCold_5c47c824a317e8.16111790.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/captain-marvel-jr",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CaptainMarvelJR_5ca81decc796e3.60776207.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/carmine-falcone",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CarmineFalcone_60cc32479d60f7.37529290.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/cassandra-cain",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_CassandraCain_Orphan__5e325dd440c320.16027457.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/catwoman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Catwoman_5c47c984ed1bf1.93808647.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/cheshire",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Chesire_60ac62ae3d8342.25305374.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/clayface",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Clayface_5c47ca2f73dd72.52942976.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/cyborg",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Cyborg_20190116_5c3fcd9048a0e1.41912254.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/cyclone",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Cyclone_6347433a0de530.62671169.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/damian-wayne",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DamianWayne_606e7e0f33bc23.76775022.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/damien-darhk",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_DamienDarhk_563aca55796143.57744001.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/darkseid",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Darkseid_5c48a0ddca6219.34241271.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/dead-boy-detectives",
+        "img": "https://static.dc.com/dc/files/default_images/DBDTC_192x291_53c5859685cf20.26076819.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/deadman",
+        "img": "https://static.dc.com/dc/files/default_images/deadman_192x291_53c587a09601f9.70066359.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/deadshot",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Deadshot_5c48a31e72eb60.98147718.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/deathstroke",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Deathstroke_5c48a4b4b208e8.17788113.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/deimos",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Deimos_5543d8334a8331.78129393.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doctor-cyber",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DrCyber_5f91e2e3ddaf21.63892675.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doctor-fate",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DoctorFate_6347343a407578.59680601.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doctor-psycho",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DoctorPsycho_5eab3b86b6da84.62690124.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doctor-sivana",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DoctorSivana_20190919_5d83d1372c82d3.32972482.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/donna-troy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DonnaTroy_5d799d61689c96.32666760.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doom-patrol",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DoomPatrol_5c5b604a411828.43391873.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/doomsday",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Doomsday_5c48a5df9de8e9.52366405.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/duke-of-deception",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_DukeofDeception_5fe16dc5560e66.31979487.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-0",
+        "img": "https://static.dc.com/dc/files/default_images/Profile_Earth0_192x291_53ee7a509105e1.42640819.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-1",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth01_54e63622915646.53335593.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-10",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth10_alt2_54e6372a57f6b3.94019017.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-11",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth11_542b2e99a64363.52507828.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-12",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth12_550c7161abaa96.59637709.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-13",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth13_54f65e8dc60278.25830967.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-15",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth15_54f65f25d952f8.74649122.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-16",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth16_54598012672b05.51283912.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-17",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth17_54f65fbae55175.34375094.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-18",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth18_54f66037d2b016.63977538.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-19",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth19_54e63854b58055.70545423.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-2",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth2_5418dc9051fb41.03826031.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-20",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth20_5418da8e00c0b1.51777308.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-21",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth21_550c73611cc605.16681459.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-22",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth22_550c743b2161c2.00973276.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-23",
+        "img": "https://static.dc.com/dc/files/default_images/Profile_Earth23_192x291_53ee7e9acbb675.03438397.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-26",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth26_543d750a6e3f80.82823692.jpeg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-29",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth29_550c74f8302a43.73065746.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-3",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth11_alt_542b2a0e94adc6.14185751.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-30",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth30_54f660cb0926c3.20078675.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-31",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth31_550c76c62b1c91.76333041.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-32",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth32_54f6619ae18084.09699349.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-33",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth33_553ecf466fea08.36198984.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-34",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth34_55358332535916.32501629.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-35",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth35_5535846e6bc836.89251735.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-36",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth36_54cbea7687fcf2.00370404.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-37",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth37_5535858a6d77c1.20949205.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-38",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth38_54e638e445d230.73665247.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-39",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth39_54e639a6c77c07.85283517.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-4",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_earth4alt_5487a7722216f5.15555125.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-40",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth40_alt_5418dbc94bd2c3.71766852.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-41",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth41_5463a4b69e0e20.35034944.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-42",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth42_5459821eb18709.40814339.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-43",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth43_550c775811b6d1.88213284.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-44",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth44_550c77d8949478.45385556.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-45",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth45_55358637cf3519.23492140.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-47",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth47_55358791e79dc0.25324997.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-48",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth48_55358a3f6a2150.21101748.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-5",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth5_54daad8b611e71.01103174.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-50",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth50_55358b27f17fb4.76210364.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-51",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth51_54f6626f5dc980.82206243.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-6",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth6_54f65db186d892.43937171.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-7",
+        "img": "https://static.dc.com/dc/files/default_images/Profile_Earth7_192x291_53ee7f21b7ffd7.89537559.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-8",
+        "img": "https://static.dc.com/dc/files/default_images/Profile_Earth8_192x291_53ee7d9fe7e780.56999012.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/earth-9",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Earth9_550c6eb6be6b23.72087908.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/el-diablo",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_ElDiablo_alt_57a3b32716a961.39900850.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/enchantress",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Enchantress_5c48a79a3ca8d7.64609560.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/etta-candy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_EttaCandy_5ee1779d366ef1.72855339.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/eve-coffin",
+        "img": "https://static.dc.com/dc/files/default_images/coffinhill_192x291_53c5858fe94f31.19967884.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/fbp-federal-bureau-of-physics",
+        "img": "https://static.dc.com/dc/files/default_images/fbp_192x291_53c5859f56d108.96771603.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/firestorm",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Firestorm_5c4913a08f6fb8.44458825.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/giganta",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Giganta_5f160dc27424a4.71672941.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/gorilla-grodd",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GorillaGrodd_5c49145aebe142.44086457.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/granny-goodness",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GrannyGoodness_60525a1f3814d2.32981526.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/green-arrow",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GreenArrow_5c4915494b3fb9.17530021.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/green-lantern",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GreenLantern_20200721_5f173ac65f56f7.70929296.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/green-lantern-corps",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GreenLanternCorps_5c491639bda918.80105950.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/guy-gardner",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_GuyGardner_5fab57f8b14910.40194858.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/h-i-v-e",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_HIVE_TTT047001_564be0f31f5853.30982658.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/harbinger",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Harbinger__5e18dc16c7a8f1.15330471.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/harley-quinn",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_HarleyQuinn_5c4a3e758122a3.39576701.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/harvey-bullock",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_HarveyBullock_55932a3cb7cc32.92610584.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/hawk-and-dove",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_HawkDove_5d79a1ef6b2d11.77787109.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/hawkgirl",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Hawkgirl_20190116_5c3fd4bc7fd073.29363391.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/hawkman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Hawkman_5c4a3f9b947261.58857874.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/heat-wave",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_HeatWave_5c4a40b0793132.12092347.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/hinterkind",
+        "img": "https://static.dc.com/dc/files/default_images/hinterkind_192x291_53c585a6306ac8.66936721.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/hippolyta",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Hippolyta_5ed1a85b06f5b9.66401558.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/huntress",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Huntress__5e1e75ba8a0478.82655987.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/icon",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Icon_6036ccbd64bd04.69640376.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/iris-west",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_IrisWest_605d205fe8b0f9.69248916.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jackson-hyde",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Aqualad_602cabbe33d0e6.85438506.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/james-gordon",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JamesGordon_5c489d36ad5348.63590617.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/javelin",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Javelin_610ddece7c5cf3.89673236.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jay-garrick",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_JayGarrick_56283f8e06a9e2.36306796.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jesse-custer",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Preacher_57896502a887e4.00779885.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jessica-cruz",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JessicaCruz_5f504210ee4414.58582716.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jimmy-olsen",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JimmyOlsen_5c4fa2975d66b2.61779975.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/john-constantine",
+        "img": "https://static.dc.com/dc/files/default_images/constantine_192x291_53c5878ac85f71.24976215.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/john-stewart",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JohnStewart_5f33095cd97be0.02227321.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/jon-kent",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JonKent_5ff67e040a4863.69357871.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/justice-league",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_JusticeLeague_5be4e198c30d40.44566581.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/justice-society-of-america",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_JSA__5ebf17815e2111.09004941.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/katana",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Katana_5c4a5fe3bf4549.96363960.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/kid-flash",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb__KidFlash_Wallace_5f73d90f5add56.03685149.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/killer-croc",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_KillerCroc_5eb5b4acdd1260.22159867.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/killer-frost",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_KillerFrost_5eb5b54f6b50e2.52060772.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/king-shark",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_KingShark_5ea1f89b8494c5.61877663.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/krypto",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Krypto_5c4a61c3a36536.45482454.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lady-shiva",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_LadyShiva_6088c90d43bfc1.24768839.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lex-luthor",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_LexLuthor_5c4a62d2862528.01646688.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lightning",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Lightning_60246437e8ca48.79643122.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lobo",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Lobo_5c50e3c7885430.52028941.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lois-lane",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_LoisLane_5512f378116274.27335253.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lucifer",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Lucifer_58f7bc6088eae9.65968138.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/lucius-fox",
+        "img": "https://static.dc.com/dc/files/default_images/luciusfox_192x291_53c588aed67a67.30590032.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/martian-manhunter",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_MartianManhunter_20190116_5c3fd5c45bcd52.92066763.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mary-bromfield",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_MaryMarvel_5ca818f5b59943.54978017.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/maxwell-lord",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Maxwell-Lord_5ee2541b55e093.94936784.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mera",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Mera_5c1025fd865c39.56911247.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/midnighter",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Midnighter_55dfd4ca4ee643.04590807.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mister-freeze",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_MisterFreeze_5c50e5923c5f38.28074367.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mister-miracle",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_MisterMiracle_5c50e69d08ec01.23205175.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mister-terrific",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_MisterTerrific_5c50e89cd545f4.92183233.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/mongal",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Mongal_610c4c42ab2ac7.22698140.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/monitor",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Monitor__5df95973a6a647.91887445.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/morpheus",
+        "img": "https://static.dc.com/dc/files/default_images/sandman_192x291_53c585ed525137.17921939.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/nereus",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Nereus_5c1adc3d6249d8.75066879.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/new-gods",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_NewGods_5c50f7e50b7282.56614947.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/nightwing",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Nightwing_2_5c50fa380942a3.78305981.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/nuidis-vulko",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_NuidisVulko_5c1ae00dc84f00.73987894.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/o-m-a-c",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_OMAC_KEVINKHO_60a5ad0881d681.37403200.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/ocean-master",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_OceanMaster_5c114db828ce29.76367895.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/pandora",
+        "img": "https://static.dc.com/dc/files/default_images/pandora_192x291_53c588ba5db353.24282747.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/peacemaker",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Peacemaker_610860006b93d0.24360953.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/penguin",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Penguin_5c5250a8ad2602.47297230.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/perry-white",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_PerryWhite_5fc8505d015493.51592902.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/plastic-man",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_PlasticMan_5c5251ea03e737.98256479.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/poison-ivy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_PoisonIvy_5c5252e46f2247.19314178.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/polka-dot-man",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Polka-DotMan_6108649804db67.27301860.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/psycho-pirate",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_PsychoPirate__5e18e3e0e0ff24.81890010.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/ras-al-ghul",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_RasAlGhul_5c525405050f69.69738006.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/ratcatcher",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Ratcatcher_610b51d4e93454.82552089.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/raven",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Raven2_5c525571ef82a6.09738300.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/red-arrow",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_RedArrow%2528Emiko%2529_607f76c4a8fb82.74808151.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/red-hood",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_RedHood_5f20be014954a5.16447111.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/renee-montoya",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_ReneeMontoya__5e3265c624d225.25039410.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/reverse-flash",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_ReverseFlash_5c53a1ac28b1d9.65207546.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/rick-flag",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_RickFlag_5c53a2e53c35c4.26418730.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/riddler",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Riddler_5c53a3b5e018c4.92974885.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/rip-hunter",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_RipHunter_56a057e4490ad4.44316444.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/robin",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Robin_5c5c888fd675e4.98555002.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/sal-maroni",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SalMaroni_60dcd1309020c2.65375838.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/savant",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Savant_610dd9a7e3a965.67786116.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/scarecrow",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Scarecrow_5e4330ad3fdee6.60366328.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/seven-deadly-sins",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SevenDeadlySins_5ca827d03a9c59.97018163.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/shazam",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Shazam_5c53a74aefbb12.02099042.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/shazam-family",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_ShazamFamily_5ca822ec38fa08.32727582.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/signal",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Signal_5f861045876ce4.61949763.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/simon-baz",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SimonBaz_5fa21f06bfbd71.56108051.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/simon-stagg",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SimonStagg_5fd8136558ad60.17084065.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/sinestro",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Sinestro_5c53a7f6ccfd39.94875238.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/solomon-grundy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SolomonGrundy_5c54f7aa48f476.56923996.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/starfire",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Starfire_5f861a27cdb0f2.50441655.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/stargirl",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Stargirl_5eb4a5cd5ccaf7.93430787.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/starro",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Starro_610de7743da705.85952376.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/static",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Static_6018aa308e0c49.55491377.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/steel",
+        "img": "https://static.dc.com/dc/files/default_images/SteelChar_Thumb__611b03b2464714.89800404.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/stephanie-brown",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_StephanieBrown_620c805acde5a8.48682696.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/stephen-shin",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_StephenShin_5c1ae721ac1396.48146171.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/steppenwolf",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Steppenwolf_5c54f977d8c201.91490823.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/steve-trevor",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SteveTrevor_5c5a354ceb4ea5.47082880.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/suicide-squad",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_SuicideSquad01_558b711cab2cc7.78319011.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/superboy",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Superboy_5c5a362fd8f137.64600062.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/supergirl",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Supergirl_5b6b48c92a5d42.10749263.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/superman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Superman_5c3fc2758f6984.90100206.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/swamp-thing",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_SwampThing_5c5a3849d9a622.19853178.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/t-d-k",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_TDK_610b697145c429.38652987.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/talia-al-ghul",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_TaliaAlGhul_609c370c758536.07522458.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/tawky-tawny",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_TawkyTawny_5ca82a3cce1d84.69916329.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/telos",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Telos_551c7aa5e7c353.03472290.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/the-cheetah",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Cheetah_5d79b0e54c2b00.43615040.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/the-flash",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Flash_20190116_5c3fcaaa18f023.90325986.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/the-joker",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Joker_5c4a42b7ef2011.52750480.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/the-phantom-stranger",
+        "img": "https://static.dc.com/dc/files/default_images/phantomstranger_192x291_53c588bfb54631.58900098.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/thinker",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Thinker_6109faddb60449.26286376.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/thomas-curry",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_ThomasCurry_5c1aed28ec8002.67870757.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/thunder",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Thunder_60244c92b86625.86689759.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/tim-drake",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_TimDrake_5f7e2cfdd703a7.65304585.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/titans",
+        "img": "https://static.dc.com/dc/files/default_images/titans_192x291_53c589733da380.01296612.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/trigon",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Trigon_5d79a6345d8d46.60542331.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/two-face",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_TwoFace_5c5a399af0f557.68468222.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/vandal-savage",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_VandalSavage_5c5a3a67598224.58888446.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/veronica-cale",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_VeronicaCale_5f160d71f12e77.08320227.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/vibe",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Vibe_60652dbc1fefa3.49984678.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/victor-zsasz",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_VictorZsasz__5eab4e60685848.92189663.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/vigilante",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Vigilante_620dc9607a0cf5.61273915.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/vixen",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Vixen_5c5a3b114ad9d0.18810289.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/watchmen",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Watchmen_5c5a3c08d2ec38.61723343.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/weasel",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Weasel_610c516d1236e9.72706058.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/wizard-shazam",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_WizardShazam_5ca8251d4071d6.64754102.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/wonder-girl",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_WonderGirl_CS__5ee82bc8211ba5.27119419.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/wonder-woman",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_WonderWoman_20190116_5c3fc6aa51d064.76155401.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/zatanna",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Zatanna_5c5a3dd6b811f3.85644553.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/zod",
+        "img": "https://static.dc.com/dc/files/default_images/Char_Thumb_Zod_5c5a3e8ef383a1.06715435.jpg?w=160"
+    },
+    {
+        "link": "https://www.dc.com/characters/zoom",
+        "img": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Zoom_568f051bec6152.89880889.jpg?w=160"
+    }
+]
