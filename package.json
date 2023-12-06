@@ -1,0 +1,26 @@
+{
+  "name": "hero-crawler",
+  "version": "1.0.0",
+  "description": "Hero crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxtung/hero-crawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "heroes"
+  ],
+  "author": "tungnx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxtung/hero-crawler/issues"
+  },
+  "homepage": "https://github.com/nxtung/hero-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
